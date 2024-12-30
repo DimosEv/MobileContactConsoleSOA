@@ -1,8 +1,0 @@
-nano .gitignore
-
-code .gitignore
-
-out/
-.idea/
-MyCalculator1.iml
-production/
